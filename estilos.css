@@ -17,12 +17,14 @@
     color:aliceblue;
     font-size: 40px;
     text-align: right;
+
 }
 
 .contenedor-portada {
     display: flex;
     justify-content: center;
     gap:50px;
+    margin-top: 60px;
 
 }
 .card {
